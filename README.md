@@ -63,12 +63,13 @@ Each monthly OD file is a station-by-station matrix (50 stations × 50 stations)
 | **4. Pivot Table** | Rows = Year, Values = SUM of `total_monthly_trips` and AVERAGE of `avg_weekday` — produces the annual comparison used below. |
 | **5. Calculation** | Year-over-year and multi-year (2022→2025) % change on both metrics. Benchmarked against 2019 using BART's independently reported 2022 recovery rate, rather than fabricating a number. |
 
-Here is a link to my Google Sheets analysis: **[貼上你的 Google Sheets 分享連結]**
+Here is a link to my Google Sheets analysis: **(https://docs.google.com/spreadsheets/d/1xn70Cpy2DBHWH4Vqi0FQwYQNd3l4OVrFKdSRsKgyDqA/edit?gid=1549197447#gid=1549197447)]**
 
 <details>
 <summary>📊 Pivot table screenshot (click to expand)</summary>
 
- `![Pivot table showing BART ridership by year](pivot_table_screenshot.png)`]*
+ `<img width="462" height="218" alt="62d90e88d2794bd19e6cb2246c6d08d1" src="https://github.com/user-attachments/assets/f2b27480-5aad-4b34-bcad-1df7f09c0415" />
+
 
 </details>
 
